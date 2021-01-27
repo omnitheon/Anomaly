@@ -1,0 +1,2 @@
+C:\Users\asern\OneDrive\Visual Studio Projects\Anomaly\Debug\Anomaly.exe
+C:\Users\asern\OneDrive\Visual Studio Projects\Anomaly\Debug\Anomaly.pdb
